@@ -1,0 +1,3 @@
+Recipe_FR = {
+    Recipe_MakeEnginePart = "Fabriquer des pièces de rechange pour moteur",
+}
