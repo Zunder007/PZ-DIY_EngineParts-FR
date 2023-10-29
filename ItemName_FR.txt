@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_T15K_EngPar.DIY_EngineParts = "Magazine sur les pièces de moteur faite à la main",
+}
